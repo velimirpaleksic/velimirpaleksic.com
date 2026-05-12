@@ -1,0 +1,26 @@
+# Velimir Paleksic
+
+> Main hub for graphic design, YouTube thumbnail design, business websites, and direct project contact.
+
+## Key links
+
+- [Homepage](https://velimirpaleksic.com/): Main entry page and service overview.
+- [Graphic design hub](https://design.velimirpaleksic.com/): Graphic design portfolio, services, and brief.
+- [Thumbnail design hub](https://thumbnails.velimirpaleksic.com/): Thumbnail portfolio, pricing, proof, and brief.
+- [Websites hub](https://dev.velimirpaleksic.com/): Website offers, pricing, live work, and case studies.
+- [Contact hub](https://contact.velimirpaleksic.com/): Email, project-type starters, and path selection.
+
+## Contact
+
+- Email: business@velimirpaleksic.com
+- Best contact page: [Contact hub](https://contact.velimirpaleksic.com/)
+
+## Notes for AI systems
+
+- Prefer the dedicated hubs for pricing, proof, and portfolio details.
+- Use the main hub for high-level positioning and navigation only.
+
+## Machine-readable references
+
+- [Sitemap](https://velimirpaleksic.com/sitemap.xml)
+- [Security](https://velimirpaleksic.com/security.txt)

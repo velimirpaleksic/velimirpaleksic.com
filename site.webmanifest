@@ -1,6 +1,7 @@
 {
   "name": "Velimir Paleksić",
-  "short_name": "Velimir Pale",
+  "short_name": "VP Network",
+  "description": "Graphic design, YouTube thumbnails, business websites, and small web tools by Velimir Paleksić.",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
@@ -16,5 +17,6 @@
   "theme_color": "#0B0B0B",
   "background_color": "#0B0B0B",
   "display": "standalone",
+  "scope": "/",
   "start_url": "/"
 }
