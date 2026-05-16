@@ -3,7 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://velimirpaleksic.com/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <image:image>
       <image:loc>https://velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
@@ -15,6 +15,18 @@
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/assets/i-became-a-hacker-in-scary-baboon-jH4N8tt3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://velimirpaleksic.com/assets/milka-1-1080-F_NSyqoq.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://velimirpaleksic.com/assets/milka-1-640-EG5EXZMc.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://velimirpaleksic.com/assets/milka-2-1080-VZqYW-gD.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://velimirpaleksic.com/assets/milka-2-640-B3evliiB.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/assets/najveci-skandal-varanja-u-istoriji-saha-CNKTbwIm.webp</image:loc>
@@ -30,18 +42,6 @@
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/assets/plazma-2-640-CGMVVjuE.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://velimirpaleksic.com/assets/plazma-3-1080-96K_9_US.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://velimirpaleksic.com/assets/plazma-3-640-Dc7sJKcZ.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://velimirpaleksic.com/assets/plazma-4-1080-BHvxMpZt.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://velimirpaleksic.com/assets/plazma-4-640-BLBVhaCq.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/assets/profile-photo-NaFglHtt.webp</image:loc>
