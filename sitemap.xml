@@ -3,7 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://velimirpaleksic.com/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <image:image>
       <image:loc>https://velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
@@ -98,9 +98,6 @@
       <image:loc>https://velimirpaleksic.com/work/design-concepts/cedevita/1.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://velimirpaleksic.com/work/design-concepts/jana-ice-tea/1.webp</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://velimirpaleksic.com/work/design-concepts/jana-ice-tea/2.webp</image:loc>
     </image:image>
     <image:image>
@@ -168,9 +165,6 @@
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/work/design-work/cedevita/1.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://velimirpaleksic.com/work/design-work/jana-ice-tea/1.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://velimirpaleksic.com/work/design-work/jana-ice-tea/2.webp</image:loc>
