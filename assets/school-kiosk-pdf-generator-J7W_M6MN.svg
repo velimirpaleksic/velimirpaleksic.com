@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 1086" role="img" aria-labelledby="title desc">
+  <title id="title">School kiosk PDF generator data-entry screen</title>
+  <desc id="desc">A Serbian Cyrillic kiosk form with student fields, dropdowns, a next button, and an on-screen keyboard.</desc>
+  <defs>
+    <linearGradient id="page" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8f8f7" />
+      <stop offset="0.55" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#f2f3f5" />
+    </linearGradient>
+    <linearGradient id="key" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#5b626d" />
+      <stop offset="1" stop-color="#3e444e" />
+    </linearGradient>
+    <linearGradient id="button" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1f2020" />
+      <stop offset="1" stop-color="#0f1010" />
+    </linearGradient>
+    <filter id="soft-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.6" flood-color="#151719" flood-opacity="0.08" />
+    </filter>
+    <style>
+      .title { fill: #202329; font: 700 43px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+      .label { fill: #202329; font: 700 25px Arial, Helvetica, sans-serif; }
+      .small-label { fill: #202329; font: 700 18px Arial, Helvetica, sans-serif; }
+      .field { fill: transparent; stroke: #8d8d8d; stroke-width: 3; }
+      .panel { fill: transparent; stroke: #9a9a9a; stroke-width: 1.5; }
+      .key-text { fill: #ffffff; font: 700 31px Arial, Helvetica, sans-serif; }
+      .button-text { fill: #ffffff; font: 700 30px Arial, Helvetica, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1456" height="1086" fill="url(#page)" />
+  <text class="title" x="728" y="58" text-anchor="middle">&#x0423;&#x041D;&#x0415;&#x0421;&#x0418;&#x0422;&#x0415; &#x041F;&#x041E;&#x0414;&#x0410;&#x0422;&#x041A;&#x0415;</text>
+
+  <g filter="url(#soft-shadow)">
+    <rect class="panel" x="23.5" y="80.5" width="1409" height="548" />
+
+    <text class="label" x="50" y="125">&#x0418;&#x043C;&#x0435; &#x0438; &#x043F;&#x0440;&#x0435;&#x0437;&#x0438;&#x043C;&#x0435; &#x0443;&#x0447;&#x0435;&#x043D;&#x0438;&#x043A;&#x0430;</text>
+    <rect class="field" x="50" y="140" width="666" height="53" />
+
+    <text class="label" x="740" y="125">&#x0418;&#x043C;&#x0435; &#x0440;&#x043E;&#x0434;&#x0438;&#x0442;&#x0435;&#x0459;&#x0430;</text>
+    <rect class="field" x="740" y="140" width="666" height="53" />
+
+    <text class="label" x="50" y="257">&#x041C;&#x0458;&#x0435;&#x0441;&#x0442;&#x043E; &#x0440;&#x043E;&#x0452;&#x0435;&#x045A;&#x0430;</text>
+    <rect class="field" x="50" y="273" width="666" height="52" />
+
+    <text class="label" x="740" y="257">&#x0414;&#x0430;&#x0442;&#x0443;&#x043C; &#x0440;&#x043E;&#x0452;&#x0435;&#x045A;&#x0430;</text>
+    <text class="small-label" x="740" y="294">&#x0413;&#x043E;&#x0434;&#x0438;&#x043D;&#x0430;</text>
+    <text class="small-label" x="966" y="294">&#x041C;&#x0458;&#x0435;&#x0441;&#x0435;&#x0446;</text>
+    <text class="small-label" x="1192" y="294">&#x0414;&#x0430;&#x043D;</text>
+    <rect class="field" x="740" y="306" width="212" height="50" />
+    <rect class="field" x="966" y="306" width="212" height="50" />
+    <rect class="field" x="1192" y="306" width="212" height="50" />
+
+    <text class="label" x="50" y="389">&#x041E;&#x043F;&#x0448;&#x0442;&#x0438;&#x043D;&#x0430;</text>
+    <rect class="field" x="50" y="405" width="666" height="53" />
+
+    <text class="label" x="740" y="389">&#x0420;&#x0430;&#x0437;&#x0440;&#x0435;&#x0434;</text>
+    <rect class="field" x="740" y="405" width="666" height="53" />
+    <line x1="1365" y1="405" x2="1365" y2="458" stroke="#8d8d8d" stroke-width="2" />
+    <path d="M1370 422h31l-15.5 18z" fill="#161a20" />
+
+    <text class="label" x="50" y="520">&#x0421;&#x0442;&#x0440;&#x0443;&#x043A;&#x0430;</text>
+    <rect class="field" x="50" y="536" width="666" height="53" />
+    <line x1="675" y1="536" x2="675" y2="589" stroke="#8d8d8d" stroke-width="2" />
+    <path d="M681 554h31l-15.5 18z" fill="#161a20" />
+
+    <text class="label" x="740" y="520">&#x0420;&#x0430;&#x0437;&#x043B;&#x043E;&#x0433;</text>
+    <rect class="field" x="740" y="536" width="666" height="53" />
+    <line x1="1365" y1="536" x2="1365" y2="589" stroke="#8d8d8d" stroke-width="2" />
+    <path d="M1370 554h31l-15.5 18z" fill="#161a20" />
+  </g>
+
+  <g>
+    <rect x="516" y="646" width="426" height="58" fill="url(#button)" />
+    <text class="button-text" x="729" y="684" text-anchor="middle">&#x0414;&#x0410;&#x0409;&#x0415;</text>
+  </g>
+
+  <g>
+    <g transform="translate(24 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0459;</text>
+    </g>
+    <g transform="translate(153 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x045A;</text>
+    </g>
+    <g transform="translate(282 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0435;</text>
+    </g>
+    <g transform="translate(411 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0440;</text>
+    </g>
+    <g transform="translate(540 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0442;</text>
+    </g>
+    <g transform="translate(669 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0437;</text>
+    </g>
+    <g transform="translate(798 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0443;</text>
+    </g>
+    <g transform="translate(927 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0438;</text>
+    </g>
+    <g transform="translate(1056 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043E;</text>
+    </g>
+    <g transform="translate(1185 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043F;</text>
+    </g>
+    <g transform="translate(1314 713)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0448;</text>
+    </g>
+
+    <g transform="translate(24 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0430;</text>
+    </g>
+    <g transform="translate(153 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0441;</text>
+    </g>
+    <g transform="translate(282 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0434;</text>
+    </g>
+    <g transform="translate(411 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0444;</text>
+    </g>
+    <g transform="translate(540 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0433;</text>
+    </g>
+    <g transform="translate(669 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0445;</text>
+    </g>
+    <g transform="translate(798 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0458;</text>
+    </g>
+    <g transform="translate(927 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043A;</text>
+    </g>
+    <g transform="translate(1056 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043B;</text>
+    </g>
+    <g transform="translate(1185 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0447;</text>
+    </g>
+    <g transform="translate(1314 806)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0452;</text>
+    </g>
+
+    <g transform="translate(153 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x045F;</text>
+    </g>
+    <g transform="translate(282 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0446;</text>
+    </g>
+    <g transform="translate(411 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0432;</text>
+    </g>
+    <g transform="translate(540 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0431;</text>
+    </g>
+    <g transform="translate(669 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043D;</text>
+    </g>
+    <g transform="translate(798 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x043C;</text>
+    </g>
+    <g transform="translate(927 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x045B;</text>
+    </g>
+    <g transform="translate(1056 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <text class="key-text" x="60" y="53" text-anchor="middle">&#x0436;</text>
+    </g>
+    <g transform="translate(1185 899)">
+      <rect width="120" height="83" fill="url(#key)" />
+      <path d="M48 29h41v31H48L27 44.5 48 29z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round" />
+      <path d="M55 36l21 17m0-17L55 53" stroke="#fff" stroke-width="3" stroke-linecap="round" />
+    </g>
+
+    <g transform="translate(411 992)">
+      <rect width="627" height="84" fill="url(#key)" />
+      <text class="button-text" x="313.5" y="53" text-anchor="middle">&#x0420;&#x0430;&#x0437;&#x043C;&#x0430;&#x043A;</text>
+    </g>
+  </g>
+</svg>

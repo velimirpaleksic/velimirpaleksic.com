@@ -1,4 +1,4 @@
-Contact: mailto:business@velimirpaleksic.com
+Contact: mailto:contact@velimirpaleksic.com
 Canonical: https://velimirpaleksic.com/security.txt
 Preferred-Languages: en, sr
 Expires: 2027-05-12T23:59:59.000Z
